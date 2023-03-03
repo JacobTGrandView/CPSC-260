@@ -1,2 +1,2 @@
 # Data-mining
-Data mining class
+All of the projects from my Data Wrangling and Mining class
